@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "a399a7f5d4d2e5b6510dc605",
+  "owner": "qnajnq",
+  "repo": "page-3cccdb61655fcef8cff18932",
+  "title": "蝌蚪佬养殖场",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "3cccdb61655fcef8cff18932",
+      "a": "蝌蚪佬养殖场",
+      "b": "2027最新官网",
+      "entity": "蝌蚪佬养殖场",
+      "brand": "蝌蚪佬养殖场",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "e0938fa78443f54ee48201231310027210e0f9bd40e83d003e78f5ac5b5875b2",
+      "content": {
+        "primary_entity": "蝌蚪佬养殖场",
+        "keyword1": "蝌蚪佬养殖场",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备类型选择客户端，完成订阅配置。",
+          "AI_CLIENTS_TITLE": "客户端按设备选择",
+          "AI_CLOSING_TEXT": "结合设备数量与流量需求选定套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选定套餐，配置订阅",
+          "AI_DESCRIPTION": "，提供基础版、旗舰版与团队版三档套餐，覆盖 3 台到 20 台设备同时在线，月流量从 100GB 到 1000GB 可选。旗舰版与团队版支持原生流媒体解锁和更高带宽节点，适合多设备家庭或小型团队。按月或按年付费均可，年付可节省两个月费用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量额度与订阅周期三个角度对比套餐。",
+          "AI_FEATURES_TITLE": "套餐与使用特点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台，按常用终端数量选择即可。",
+          "AI_FEATURE_TITLE_1": "按设备数量选版本",
+          "AI_FEATURE_TEXT_2": "每月 100GB 到 1000GB 流量分档，轻度浏览到多设备并发都有对应套餐。",
+          "AI_FEATURE_TITLE_2": "流量额度分档清晰",
+          "AI_FEATURE_TEXT_3": "月付灵活、年付更省，按年付费约等于支付十个月享受十二个月服务。",
+          "AI_FEATURE_TITLE_3": "月付年付灵活切换",
+          "AI_GUIDE_INTRO": "从套餐选择到客户端订阅配置三步完成。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "蝌蚪佬养殖场提供多档海外网络加速套餐，按设备数量与月流量区分版本，适合个人、家庭及小型团队使用。",
+          "AI_HERO_SUBTITLE": "多设备多流量的加速套餐",
+          "AI_HIGHLIGHT_1": "基础版 ¥15/月，100GB 流量、3 台设备",
+          "AI_HIGHLIGHT_2": "旗舰版 ¥35/月，300GB 流量、5 台设备",
+          "AI_HIGHLIGHT_3": "团队版 ¥85/月，1000GB、20 台设备",
+          "AI_PLANS_INTRO": "基础版适合 3 台以内设备轻度使用，旗舰版满足 5 台设备流媒体与游戏加速，团队版提供 20 台设备大流量方案。年付价格分别为 ¥150、¥350、¥850。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_STEP_TEXT_1": "根据同时在线设备数量与月流量需求，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_1": "选择服务套餐",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端适配要求，选择对应平台版本的客户端。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_3": "依照所选客户端的配置文档导入订阅，连接节点后即可使用。",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "蝌蚪佬养殖场加速套餐",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备数量与套餐周期。",
+          "AI_FAQ_QUESTION_1": "套餐之间主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版 100GB 流量、3 台设备、普通线路；旗舰版 300GB 流量、5 台设备、含 IPLC 专线与流媒体解锁；团队版 1000GB 流量、20 台设备、VIP 高带宽节点。",
+          "AI_FAQ_QUESTION_2": "支持多少台设备同时使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版支持 5 台设备，团队版支持 20 台设备同时在线。",
+          "AI_FAQ_QUESTION_3": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_3": "选择合适的客户端，将订阅链接粘贴到客户端的订阅导入位置，保存后更新节点列表即可。具体步骤参考客户端文档。",
+          "AI_FAQ_QUESTION_4": "年付是否更划算？",
+          "AI_FAQ_ANSWER_4": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比按月支付更优惠，可按长期需求选择。",
+          "AI_FAQ_QUESTION_5": "流量用完后如何处理？",
+          "AI_FAQ_ANSWER_5": "流量用尽后，可根据需要升级到更高流量套餐，或等待下个计费周期流量重置。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "mnzgk.cn",
+    "host": "mnzgk.cn"
+  },
+  "file_hashes": {
+    "index.html": "6cba1ab56d32dec0e2ccc091a947630d98ec563ea34640b5f87c135540a758cf",
+    "sitemap.xml": "e6c934c002735c7362c2ab9cced9dcfd281e91fa2003d08b8a923211ad9e372a",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "54680737078a5d682358f794cf1d24f688a169ea295749bf78ede11e05429186",
+    "robots.txt": "735dacee1d75609ab9cc1527cd51538b8a03f59190b121875d3f4d3044af0182",
+    "2a05704f310d7cc69ef1492c12572e6f.txt": "9625987e614a5f75054bd7d98c77fdc12c2855cfad9d6a452e9ff09ab4b0134e"
+  },
+  "revision": "9d98888f586f16959980be4f507556662e571ec95ed899d401e6f1aacd86fb67"
+}
